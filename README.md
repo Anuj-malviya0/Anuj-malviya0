@@ -1,5 +1,4 @@
-### Hi there 👋
-**Anuj-malviya0/Anuj-malviya0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### नमस्ते 
 
 - 🔭 I’m currently working on app development 
 - 🌱 I’m currently learning python
