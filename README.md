@@ -1,5 +1,5 @@
 ### नमस्ते 
-<img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="200" height="200"/>
+<img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="200" height="200" align="right" />
 - 🔭 I’m currently working on app development 
 - 🌱 I’m currently learning python
 - 💬 Ask me about c
