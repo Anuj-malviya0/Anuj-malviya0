@@ -17,6 +17,7 @@ Email :- anujmalviya850@gmail.com
 <p align="center">
 <a href="https://stackoverflow.com/users/13560934" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13560934" height="30" width="40" /></a>
 <a href="https://instagram.com/_anuj_malviya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_anuj_malviya" height="30" width="40" /></a>
+<a href="https://github.com/Anuj-malviya0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" /></a>
 </p>
     
 
