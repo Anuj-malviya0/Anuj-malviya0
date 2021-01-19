@@ -16,7 +16,7 @@ Email :- anujmalviya850@gmail.com
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuj-malviya0&show_icons=true&locale=en" alt="anuj-malviya0" />
 </details>
      
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-malviya0&" alt="anuj-malviya0" />
+
 
      
          
