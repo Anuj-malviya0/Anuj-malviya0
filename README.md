@@ -1,6 +1,6 @@
 ### नमस्ते 
 ---
-<img src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" width="320" height="250" align="right" />
+<img src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" width="350" height="250" align="right" />
 
 A student trying to understand how things works and I have chosen python to do it, I am curently learning python , and i know little bit about C and my goal is to create a fully working application with python
 
@@ -18,6 +18,9 @@ Email :- anujmalviya850@gmail.com
 <a href="https://stackoverflow.com/users/13560934" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13560934" height="30" width="40" /></a>
 <a href="https://instagram.com/_anuj_malviya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_anuj_malviya" height="30" width="40" /></a>
 <a href="https://github.com/Anuj-malviya0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anuj-malviya-a531b4204/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
+<a href="https://www.quora.com/profile/Anuj-Malviya-16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" height="30" width="40" /></a>
+       
 </p>
     
 
