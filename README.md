@@ -1,6 +1,5 @@
 ### नमस्ते 
 ---
-important
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=anuj-malviya0&label=Profile%20views&color=important&style=flat-square" alt="anuj-malviya0" /> </p>
 <img src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" width="375" height="250" align="right" />
 
