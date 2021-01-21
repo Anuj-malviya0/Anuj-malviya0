@@ -1,12 +1,14 @@
 ### नमस्ते 
 ---
+important
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=anuj-malviya0&label=Profile%20views&color=important&style=flat-square" alt="anuj-malviya0" /> </p>
 <img src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" width="375" height="250" align="right" />
 
 A student trying to understand how things works and I have chosen python to do it, I am curently learning python , and i know little bit about C and my goal is to create a fully working application with python
 
 >>Name :- Anuj Malviya    
 Email :- anujmalviya850@gmail.com  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj-malviya0&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-malviya0" /> </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
