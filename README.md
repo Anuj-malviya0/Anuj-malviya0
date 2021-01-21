@@ -1,6 +1,6 @@
 ### नमस्ते 
 ---
-<img src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" width="350" height="250" align="right" />
+<img src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" width="375" height="250" align="right" />
 
 A student trying to understand how things works and I have chosen python to do it, I am curently learning python , and i know little bit about C and my goal is to create a fully working application with python
 
