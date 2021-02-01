@@ -21,7 +21,7 @@ Email :- anujmalviya850@gmail.com
 <a href="https://github.com/Anuj-malviya0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="30" /></a>
 <a href="https://www.linkedin.com/in/anuj-malviya-a531b4204/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="30" /></a>
 <a href="https://www.quora.com/profile/Anuj-Malviya-16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg" height="20" width="30" /></a>
-<a href="anujmalviya850@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="20" width="30" /></a>
+<a href="https://anujmalviya850@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="20" width="30" /></a>
        
 </p>
     
