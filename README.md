@@ -4,9 +4,9 @@
 <img src="https://miro.medium.com/max/875/0*C-cPP9D2MIyeexAT.gif" width="305" height="200" align="right" />
 A student trying to understand how things works and I have chosen python to do it, I am curently learning python , and i know little bit about C and my goal is to create a fully working application with python
 
->>Name :- Anuj Malviya    
+>Name :- Anuj Malviya    
 Email :- anujmalviya850@gmail.com  
-
+<a herf='https://github.com/Anuj-malviya0/my_first_repo/blob/main/My%20resume.pdf' target="_blank">My resume</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
