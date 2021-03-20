@@ -6,7 +6,6 @@ A student trying to understand how things works and I have chosen python to do i
 
 >Name :- Anuj Malviya    
 Email :- anujmalviya850@gmail.com  
-https://github.com/Anuj-malviya0/my_first_repo/blob/main/My%20resume.pdf
 
 
 <h3 align="left">Languages and Tools:</h3>
