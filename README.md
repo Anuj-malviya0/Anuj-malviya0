@@ -1,6 +1,6 @@
 
 <h1 align="center">Anuj Malviya</h1>
-<h3 align="center">A simple CSE Student, My three major interests and passions are Computer Science, Maths and Music, and I believe that there is a creative fusion between all these disciplines. I engage wholeheartedly in these areas both in my school courses and out of school, and hope that I will be able to continue doing so on my chosen course and in the extra-curricular opportunities at university...</h3>
+<h3 align="center">A simple CSE Student with a passion for Computer Science, Maths, and Music. I believe in the creative fusion between these disciplines and actively engage in them both in my school courses and beyond. I aim to continue exploring these areas in my chosen course and through extracurricular opportunities at university.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuj-malviya0&label=Profile%20views&color=0e75b6&style=flat" alt="anuj-malviya0" /> </p>
 
